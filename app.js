@@ -1,5 +1,5 @@
 var inquirer = require('inquirer');
-var basic = require('./basic.js');
+var basic = require('./basicCard.js');
 var fs = require('fs');
 
 inquirer.prompt({
