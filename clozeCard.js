@@ -25,8 +25,8 @@ ClozeCard.prototype.full = function() {
 }
 
 
-var card1 = new ClozeCard("How many miles per second does light travel?", "186,282");
-var card2 = new ClozeCard("How many feet per second does sound travel?", "1,088");
+var card1 = new ClozeCard("The planet... is closest to the Earth", "Venus");
+var card2 = new ClozeCard("The planet ... is closet to the sun", "Mercury");
 
 //push cards into the array
 cards.push(card1);
