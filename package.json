@@ -1,7 +1,7 @@
 {
   "name": "flashcard-generator",
   "version": "1.0.0",
-  "description": "Basic and Cloxe-Deleted flashcard backend generator",
+  "description": "Basic and Cloze-Deleted flashcard backend generator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
